@@ -25,8 +25,6 @@ The Author reserves the right to take legal action against any unauthorized use 
 # Importeer de Azure Active Directory PowerShell-module
 Import-Module AzureAD
 
-Install-Module AzureAD
-
 # Verbind met Azure AD
 $Credentials = Get-Credential
 Connect-AzureAD -Credential $Credentials
