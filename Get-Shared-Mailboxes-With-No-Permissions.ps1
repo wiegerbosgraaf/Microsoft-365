@@ -53,5 +53,3 @@ $noPermissionMailboxes | Export-Csv -Path "C:\NoPermissionSharedMailboxes.csv" -
 
 # Verbinding met Exchange Online verbreken
 Disconnect-ExchangeOnline -Confirm:$false
-
-
