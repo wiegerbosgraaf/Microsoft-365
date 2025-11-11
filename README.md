@@ -1,5 +1,4 @@
 # README voor Microsoft 365 Beheerscripts Repository
-Over deze Repository
 Welkom bij de Microsoft 365 Beheerscripts Repository! Deze repository is bedoeld om een verzameling van handige scripts te bieden die het dagelijks beheer van Microsoft 365-omgevingen vereenvoudigen. De scripts zijn ontwikkeld om beheerders te helpen met gemeenschappelijke taken zoals gebruikersbeheer, licentiebeheer, monitoring, en configuratie van verschillende Microsoft 365-diensten.
 
 Hoe te Gebruiken
