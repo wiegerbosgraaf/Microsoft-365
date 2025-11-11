@@ -11,7 +11,7 @@ Hoe te Gebruiken
 
 Bijdragen
 - Fork de Repository: Maak een fork van deze repository om je eigen versie te hebben.
-- Voeg je script Toe: Als je een nuttig script hebt dat je wilt delen, voeg het dan toe aan je fork.
+- Voeg je script toe: Als je een nuttig script hebt dat je wilt delen, voeg het dan toe aan je fork.
 - Maak een Pull Request: Dien een pull request in om je script toe te voegen aan de hoofdrepository, zodat iedereen ervan kan profiteren.
 
 Disclaimer en Gebruiksrisico
@@ -22,4 +22,4 @@ Verantwoordelijkheid van de gebruiker: Het is de verantwoordelijkheid van de geb
 Copyright
 © Alle rechten voorbehouden. De inhoud van deze repository mag niet gereproduceerd, verspreid, of gebruikt worden voor commerciële doeleinden zonder voorafgaande schriftelijke toestemming van de auteur(s).
 
-Voor vragen over maatwerk of andere toestemmingen kun je contact opnemen met Wieger Bosgraaf via zijn website: https://www.wiegerbosgraaf.nl/ of zijn LinkedIn-pagina: https://www.linkedin.com/in/wiegerbosgraaf/.
+Voor vragen over maatwerk of andere toestemmingen kun je contact opnemen met Wieger Bosgraaf via zijn website: https://www.pexor.nl/ of zijn LinkedIn-pagina: https://www.linkedin.com/in/wiegerbosgraaf/.
