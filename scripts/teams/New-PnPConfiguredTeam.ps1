@@ -14,6 +14,16 @@ $ClientID         = "<Your-Client-ID>"  # Application (client) ID registered in 
 $TenantAdminUrl   = "https://<yourtenant>-admin.sharepoint.com/"
 $Owners           = @("<owner1@domain.com>", "<owner2@domain.com>") # Array of owner UPNs
 $Members          = @("<member1@domain.com>")                       # Array of member UPNs
+
+# To determine the GUID for a sensitivity label (used in the $SensitivityLabel variable), connect to the Security & Compliance PowerShell module and run:
+#   Connect-IPPSSession
+#   Get-Label | Select-Object Name, ImmutableId
+# This lists all sensitivity labels and their ImmutableId values (label GUIDs) in your tenant.
+# Alternatively, to see the label assigned to an existing SharePoint site, connect to SharePoint Online and run:
+#   Connect-SPOService -Url https://<tenant>-admin.sharepoint.com
+#   Get-SPOSite -Identity "https://<tenant>.sharepoint.com/sites/YourSite" | Select-Object Url, SensitivityLabel
+# The SensitivityLabel property contains the GUID of the label applied to the site. Use that GUID as the value for $SensitivityLabel below.
+
 $SensitivityLabel = "<Sensitivity-Label-Guid>"  # Optional sensitivity label GUID
 
 # Check if PnP.PowerShell module is installed and update if needed
