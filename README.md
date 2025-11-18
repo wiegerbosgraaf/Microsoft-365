@@ -14,6 +14,7 @@ Bijdragen
 - Maak een Pull Request: Dien een pull request in om je script toe te voegen aan de hoofdrepository, zodat iedereen ervan kan profiteren.
 
 Disclaimer en Gebruiksrisico
+
 Gebruik op Eigen Risico: Alle scripts in deze repository worden geleverd "zoals ze zijn", en het gebruik ervan is volledig op eigen risico. Hoewel de scripts zijn getest, is er geen garantie dat ze foutloos zijn.
 
 Verantwoordelijkheid van de gebruiker: Het is de verantwoordelijkheid van de gebruiker om te zorgen voor backups en tests voordat scripts worden uitgevoerd in een productieomgeving.
